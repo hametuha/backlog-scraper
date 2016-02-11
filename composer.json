@@ -1,0 +1,20 @@
+{
+    "name": "hametuha/backilog-scraper",
+    "description": "A PHP Library for backlog API",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fumikito",
+            "email": "guy@hametuha.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-0": {
+            "Hametuha\\Backlog": "src"
+        }
+    }
+}
